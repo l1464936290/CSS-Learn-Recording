@@ -1,0 +1,62 @@
+html {
+    font-size: 62.5%;
+}
+p,div {
+    /*border:1px #F00 solid;*/
+}
+
+body {
+    text-align: center;
+    background: rgb(110,205,213);
+    font-size: 16px;
+}
+
+.return {
+    padding-left: 1%;
+    padding-top: 1%;
+    width: 5.4rem;
+    height: 5.4rem;
+}
+
+.icon-logo {
+    margin: 5rem auto;
+    height:8rem;
+}
+
+.text-content {
+    margin: 3rem auto;
+    width:80%;
+    height:15rem;
+    color:white;
+}
+
+.text2 {
+    margin: 0;
+    text-align: left;
+    display:inline-block
+}
+
+.down {
+    margin: 3rem auto;
+    width:95%;
+    height:10rem;
+}
+
+.icon-left {
+    margin-left: 10%;
+    width:8.4rem;
+    height: 8.4rem;
+    float: left;
+    color:white;
+}
+
+.icon-right {
+    margin-right: 10%;
+    width:8.4rem;
+    height: 8.4rem;
+    float: right;
+    color:white;
+}
+.text {
+    margin-top: 0rem;
+}
